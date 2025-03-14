@@ -20,7 +20,9 @@ Fraud Detection Agent
 Portfolio Manager
 Compliance & Regulatory Agent
 
-# Project Structure
+## 📂 Project Structure
+
+
 XNL-21BCG10126-LLM-1/
 │── src/                   # Core source code
 │   ├── main.py            # FastAPI entry point
